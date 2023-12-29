@@ -15,7 +15,7 @@ const Footer = () => {
             <h2>Get In Touch</h2>
             <article>
                 <a href="https://www.linkedin.com/in/alok-chaurasia/" target={"blank"}><AiFillLinkedin/></a>
-                <a href="https://www.instagram.com" target={"blank"}><AiFillInstagram/></a>
+                <a href="https://www.instagram.com/littlebit_x04?igsh=MXc2djd1OWwxcDRxYQ==" target={"blank"}><AiFillInstagram/></a>
                 <a href="https://github.com/alokchaurasiya" target={"blank"}><AiFillGithub/></a>
                 <a href="https://wa.me/+919565103958" target={"blank"}><AiOutlineWhatsApp/></a>
                 <a href="https://twitter.com" target={"blank"}><AiOutlineTwitter/></a>
