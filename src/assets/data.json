@@ -1,0 +1,32 @@
+{
+    "projects": [
+      {
+        "date": "11/05/2022",
+        "title": "FACE RECOGNITION",
+        "description": "This is a Full Stack Face Recognition which is created using React.js and Node.js. In this app one can Sign Up or Log in, can read the blogs and also like and comment on blogs",
+        "url": "https://github.com/alokchaurasiya/face-recognition-systen",
+        "imgSrc": "https://miro.medium.com/v2/resize:fit:2000/1*DPNoWJ3Au35Fw58Sn2oj1w.png"
+      },
+      {
+        "date": "17/09/2022",
+        "title": "COVID-19 INDIA",
+        "description": "Analysed and interpreted Covid-19 data for India conducted exploratory data analysis to identify patterns, trends and correlation within Covid-19 datasets. Skill – Python, SQL, and different types libraries like NumPy, Pandas, Matplotlib, Seaborn etc",
+        "url": "https://github.com/alokchaurasiya/Covid-19-Analysis",
+        "imgSrc": "https://www.un.org/sites/un2.un.org/files/field/image/1583952355.1997.jpg"
+      },
+      {
+        "date": "15/12/2022",
+        "title": "WEATHER APP",
+        "description": "This is a simple weather app build using React.js and Api. In this app one can search any city in the world and get to know about there weather using API  ",
+        "url": "https://github.com/sumit0410/weather-app",
+        "imgSrc": "https://assets.materialup.com/uploads/cfe42246-e49f-4166-91ce-246e253eae27/preview.jpg"
+      },
+      {
+        "date": "15/01/2023",
+        "title": "MUSIC PLAYER",
+        "description": "This is a simple Music Player app build using html, css and JavaScript. This app has few songs to listen, this app is only mobile specific.   ",
+        "url": "https://sumit0410.github.io/music-player-mobile/",
+        "imgSrc": "https://cdn.vox-cdn.com/thumbor/aqh01V_ynBv8hVMTZ3M8dtcikJc=/0x0:1200x800/1400x1400/filters:focal(600x400:601x401)/cdn.vox-cdn.com/uploads/chorus_asset/file/16022492/Screen_Shot_2019_04_10_at_11.45.32_AM.png"
+      }
+    ]
+  }
